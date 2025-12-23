@@ -12,7 +12,7 @@
   let pausedAt = $state(0)
 
   const DEFAULT_VOLUME = 0.3
-  const AUDIO_URL = '/audio/ambient.mp3'
+  const AUDIO_URL = `${import.meta.env.BASE_URL}audio/ambient.mp3`
 
   onMount(() => {
     showPlayHint = true
