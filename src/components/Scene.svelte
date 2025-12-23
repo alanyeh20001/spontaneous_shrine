@@ -168,7 +168,7 @@
   .background {
     position: absolute;
     inset: 0;
-    background-image: url('/background.png');
+    background-image: url('/background.webp');
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
