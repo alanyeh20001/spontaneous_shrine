@@ -204,9 +204,8 @@
     padding: 8px 12px;
     border-radius: 8px;
     font-size: 13px;
-    white-space: nowrap;
+    width: max-content;
     max-width: 200px;
-    white-space: normal;
     text-align: center;
     margin-bottom: 8px;
     z-index: 100;
